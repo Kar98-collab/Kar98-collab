@@ -1,45 +1,66 @@
-## 👋 Hello! I'm Md Wasim Alam
-“Data beats opinions.” – Jeff Bezos
-Driven by insight, not assumption – always seeking the truth behind the numbers.
+# 👋 Hi, I'm **Md. Wasim Alam**
 
-🎓 Data Analyst | 📊 Excel & Power BI Enthusiast | 🐍 Python Programmer 
+> 💬 *“Data beats opinions.” – Jeff Bezos*  
+> 🎯 *Driven by insight, not assumption – always seeking the truth behind the numbers.*
 
-Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and have a keen interest in data visualization and analytics.
-
-## 🔧 Skills
-- **Languages**: Python, SQL
-- **Tools**: IBM Cognos, Power BI, Tableau, MS Excel, MS PowerPoint
-
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mdwasimalam/)
-- [Email](nawabalam7150@gmail.com)
-
-
-## Certifications
-
-
-### 🎓 Certifications
-
-- 📗 **Google Data Analytics Professional Certificate** – *Coursera*
-- 📈 **Power BI Data Analyst Associate** – *Microsoft*
+🎓 I'm an aspiring data analyst with a sharp eye for trends and patterns, using **SQL**, **Python**, and **BI tools** to turn raw data into smart decisions. Currently working at **DTDC** while pursuing my MBA, I'm on a mission to master the analytics space one dataset at a time.
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+
 ### 🧠 Certifications in Progress
 
-- 📘 **Python for Data Science and AI** – *IBM / Coursera*  
-  _Expected completion: April 2025_
-
-- 📊 **Advanced SQL for Data Analysis** – *Mode Analytics*  
+- 📘 **Google Data Analytics Professional Certificate** – *Coursera*  
   _Expected completion: May 2025_
 
-- [Data Analytics Certification – Deloitte](https://oneroadmap.io/skills/da/certificate/CERT-4CC026BC)  
-- [SQL Basics for Data Science – Coursera](https://example.com)  
-- [Accenture North America Data Analytics and Visualization – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_yMzDLnniRA9vvsGov_1721719745986_completion_certificate.pdf)  
-- [Tata Data Visualization – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_yMzDLnniRA9vvsGov_1721036618963_completion_certificate.pdf)  
-- [MS Excel using AI Workshop – BE10X](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_yMzDLnniRA9vvsGov_1744019440066_completion_certificate.pdf)  
-- [Microsoft Excel 365 – Grant Thornton Bharat](https://example.com)  
-- [Advanced Excel – Grant Thornton Bharat](https://example.com)  
-- [Dashboards for Beginners – Power BI](https://example.com)  
-- [Python 101 for Data Science – IBM](https://www.credly.com/badges/debcd0bd-7b50-4ca1-a494-194dea8c5376/linked_in_profile)  
+- 📊 **Python Data Analytics** – *Coursera*  
+  _Expected completion: Jun 2025_
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Cognos](https://img.shields.io/badge/-IBM%20Cognos-05122A?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+### 💼 Work Experience
+
+**📍 Channel Management Officer – DTDC** *(Feb 2025 – Present)*  
+- 🧠 Managed 25+ channel partners and improved SLA compliance by ~10%  
+- 📊 Built Excel & Power BI dashboards to visualize KPIs and logistics performance  
+- 🔄 Streamlined fulfillment and onboarded new partners monthly
+
+---
+
+### 🎯 Internship
+
+**💼 Marketing & Business Analyst Intern – Max-View Now** *(Jun – Aug 2024)*  
+- 📈 Led sales data analysis for strategy planning  
+- 📌 Helped generate ₹8,100 in growth via data-backed decisions
+
+---
+
+### 📂 Projects
+
+**🛍️ Retail Insights Optimization** *(Dec 2024 – Feb 2025)*  
+→ Improved layout, inventory, and task efficiency — 15% higher satisfaction  
+
+**🍕 Pizza Hut Sales Optimization (SQL)** *(Nov 2024)*  
+→ Identified top-sellers and optimized SKUs using SQL window functions  
+
+**🎉 Festive Sales Data Analysis** *(Oct 2024)*  
+→ Cleaned, visualized, and analyzed seasonal trends with Python & Excel  
+
+**🛒 Blinkit Sales Dashboard** *(Aug 2024)*  
+→ Built real-time Power BI dashboard for executive KPI review  
+
+```sql
+-- Sample SQL Query
+SELECT category, COUNT(*) AS total_orders
+FROM orders
+GROUP BY category
+ORDER BY total_orders DESC;
