@@ -1,6 +1,8 @@
 ## 👋 Hello! I'm Md Wasim Alam
+“Data beats opinions.” – Jeff Bezos
+Driven by insight, not assumption – always seeking the truth behind the numbers.
 
-🎓 Data Analyst | 📊 Excel & Power BI Enthusiast | 🐍 Python Programmer
+🎓 Data Analyst | 📊 Excel & Power BI Enthusiast | 🐍 Python Programmer | SQL
 
 Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and have a keen interest in data visualization and analytics.
 
