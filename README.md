@@ -1,3 +1,19 @@
+## 👋 Hello! I'm Md Wasim Alam
+
+🎓 Data Analyst | 📊 Excel & Power BI Enthusiast | 🐍 Python Programmer
+
+Welcome to my GitHub profile! I'm passionate about transforming data into actionable insights and have a keen interest in data visualization and analytics.
+
+## 🔧 Skills
+- **Languages**: Python, SQL
+- **Tools**: IBM Cognos, Power BI, Tableau, MS Excel, MS PowerPoint
+
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mdwasimalam/)
+- [Email](nawabalam7150@gmail.com)
+
+
 ## Certifications
 
 - [Data Analytics Certification – Deloitte](https://oneroadmap.io/skills/da/certificate/CERT-4CC026BC)  
