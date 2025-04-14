@@ -18,6 +18,22 @@ Welcome to my GitHub profile! I'm passionate about transforming data into action
 
 ## Certifications
 
+
+### 🎓 Certifications
+
+- 📗 **Google Data Analytics Professional Certificate** – *Coursera*
+- 📈 **Power BI Data Analyst Associate** – *Microsoft*
+
+---
+
+### 🧠 Certifications in Progress
+
+- 📘 **Python for Data Science and AI** – *IBM / Coursera*  
+  _Expected completion: April 2025_
+
+- 📊 **Advanced SQL for Data Analysis** – *Mode Analytics*  
+  _Expected completion: May 2025_
+
 - [Data Analytics Certification – Deloitte](https://oneroadmap.io/skills/da/certificate/CERT-4CC026BC)  
 - [SQL Basics for Data Science – Coursera](https://example.com)  
 - [Accenture North America Data Analytics and Visualization – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_yMzDLnniRA9vvsGov_1721719745986_completion_certificate.pdf)  
